@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-munu/static/css/main.d87d7a80.css",
+    "main.js": "/test-munu/static/js/main.30016eaf.js",
+    "index.html": "/test-munu/index.html",
+    "main.d87d7a80.css.map": "/test-munu/static/css/main.d87d7a80.css.map",
+    "main.30016eaf.js.map": "/test-munu/static/js/main.30016eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d87d7a80.css",
+    "static/js/main.30016eaf.js"
+  ]
+}
